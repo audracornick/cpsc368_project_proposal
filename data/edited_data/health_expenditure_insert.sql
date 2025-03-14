@@ -1,4 +1,4 @@
-INSERT INTO HealthExpenditure (Year, Gender, AgeGroup, CurrentDollars, CurrentDollarsPerCapita) VALUES 
+INSERT INTO HealthExpenditure (Year, Gender, AgeGroup, TotalCurrentDollars, TotalCurrentDollarsPerCapita) VALUES 
 (2009, 'F', 'middle-age', 6648365793, 43057),
 (2009, 'F', 'minor', 1304204278, 24387),
 (2009, 'F', 'senior', 6341276122, 138183),
