@@ -19,7 +19,7 @@ By Audra Cornick, Abigail Grunenberg, Rishika Lyaga
   - project_database.sql : The create table SQL statement for our HealthExpenditures table combined with its corresponding inserts, as well as the create table statment for our SurgicalWaitTimes table with its insert statements.
   - create_joint_table.sql : The create table as command used to create a joint table that combines attributes from HealthExpenditures tbale and SurgicalWaitTimes table using aggregation and grouping. This is used to perform analysis for research question 1 in the Question1-Analysis.ipynb file.
   - Question1-Analysis.ipynb : Contains all of the SQL statements, besides the create_joint_table.sql file, that is used to perform the regression analyses on our data for our first research question.
-  - Question2-Analysis.ipynb : Contains all of the SQL statements used to perform the regression analyses on our data for our second research question.
+  - Question2-Analysis.ipynb : Contains all of the SQL statements used to perform the chi-squared analyses on our data and the visualization for our second research question.
   - Question3-Analysis.ipynb : Contains all of the SQL statements used to perform the regression analyses on our data for our third research question.
   - preprocessed_health_data.csv : Our health expenditure data after it has been cleaned.
   - preprocessed_surgical_wait_times.csv : Our surgical wait time data after it has been cleaned and procedures have been categorized.
