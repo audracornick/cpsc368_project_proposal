@@ -1,4 +1,4 @@
-CPSC 368 Group 3 Project: TITLE
+CPSC 368 Group 3 Project: Understanding Healthcare Expenditure and Surgical Wait Times: A Study of British Columbia's Healthcare System
 
 By Audra Cornick, Abigail Grunenberg, Rishika Lyaga
 
